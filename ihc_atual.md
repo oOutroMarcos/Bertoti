@@ -21,4 +21,5 @@ The system should present the user with an “emergency exit” from that state 
 It is important that you direct the user to help him accomplish his task, without taking away his options of using his system freely, as long as there are no problems with business rules and system functionality, of course!
 
 ![delete_cancel_youtube](https://github.com/oOutroMarcos/Bertoti/assets/126624403/b44ba4d0-93b3-4631-a6b4-071b6809e027)
+
 In youtube playlist(again) for example, when you remove a video from you playlist it will appear a pop up with the option to cancel you action.
