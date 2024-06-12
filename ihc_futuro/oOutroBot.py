@@ -17,7 +17,7 @@ bot = telebot.TeleBot(TOKEN)
 classificador = pipeline("zero-shot-classification")
 pr = pipeline("question-answering", model="timpal0l/mdeberta-v3-base-squad2", tokenizer="timpal0l/mdeberta-v3-base-squad2")
 
-intencoes = ['saudação olá oi eae','d20','d4','d6','d8','d10','d12','d100']
+intencoes = ['saudação olá oi eae salve','d20','d4','d6','d8','d10','d12','d100']
 
 estado = 1
 
